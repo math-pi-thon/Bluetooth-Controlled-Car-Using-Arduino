@@ -7,7 +7,11 @@ The primary objective of the Bluetooth-controlled Arduino car project is to demo
 - Develop a user-friendly mobile application for controlling the car remotely via Bluetooth.
 - Explore potential applications and extensions of the Bluetoothcontrolled Arduino car for education, entertainment, and research purposes.
 
-![image](https://github.com/user-attachments/assets/f777c683-9313-4f4f-8f69-637876440918) &nbsp; ![image](https://github.com/user-attachments/assets/3bf8449c-fc1d-4628-aa0f-19ccb5a845cd)
+<br/>
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/f777c683-9313-4f4f-8f69-637876440918" height="300" />
+  <img src="https://github.com/user-attachments/assets/3bf8449c-fc1d-4628-aa0f-19ccb5a845cd" height="300" />
+</p>
 
 ## Components Required
 - Arduino UNO Microcontroller
